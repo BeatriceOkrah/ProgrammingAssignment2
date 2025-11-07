@@ -50,3 +50,4 @@ cacheSolve <- function(x, ...) {
   x$setInverse(inv)         # Cache the result
   inv                       # Return the inverse
 }
+
